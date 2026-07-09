@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Native American Plea to Lesser Charge,Native American No Plea to Lesser Charge,Native American Total Guilty Pleas,Hispanic Plea to Lesser Charge,Hispanic No Plea to Lesser Charge,Hispanic Total Guilty Pleas,Black Plea to Lesser Charge,Black No Plea to Lesser Charge,Black Total Guilty Pleas,White Plea to Lesser Charge,White No Plea to Lesser Charge,White Total Guilty Pleas,Percent of Native American defendants pleading to a lesser charge,Percent of Hispanic defendants pleading to a lesser charge,Percent of Black defendants pleading to a lesser charge,Percent of White defendants pleading to a lesser charge
-18,2020,3,4,7,187,240,427,262,322,584,442,434,876,42.85714286,43.79391101,44.8630137,50.456621
-18,2021,0,3,3,175,283,458,213,365,578,370,539,909,0.0,38.20960699,36.85121107,40.70407041
-18,2022,2,4,6,200,324,524,221,399,620,348,587,935,33.33333333,38.16793893,35.64516129,37.21925134
-18,2023,5,6,11,204,363,567,217,418,635,308,554,862,45.45454545,35.97883598,34.17322835,35.73085847
-18,2024,3,4,7,219,373,592,212,386,598,372,436,808,42.85714286,36.99324324,35.45150502,46.03960396
-18,2025,2,2,4,264,361,625,257,372,629,412,445,857,50.0,42.24,40.85850556,48.07467911
+﻿Disposition Year,Native American Plea to Lesser Charge,Native American No Plea to Lesser Charge,Native American Total Guilty Pleas,Hispanic Plea to Lesser Charge,Hispanic No Plea to Lesser Charge,Hispanic Total Guilty Pleas,Black Plea to Lesser Charge,Black No Plea to Lesser Charge,Black Total Guilty Pleas,White Plea to Lesser Charge,White No Plea to Lesser Charge,White Total Guilty Pleas,Percent of Native American defendants pleading to a lesser charge,Percent of Hispanic defendants pleading to a lesser charge,Percent of Black defendants pleading to a lesser charge,Percent of White defendants pleading to a lesser charge
+2020,3,4,7,187,240,427,262,322,584,442,434,876,42.85714286,43.79391101,44.8630137,50.456621
+2021,0,3,3,175,283,458,213,365,578,370,539,909,0.0,38.20960699,36.85121107,40.70407041
+2022,2,4,6,200,324,524,221,399,620,348,587,935,33.33333333,38.16793893,35.64516129,37.21925134
+2023,5,6,11,204,363,567,217,418,635,308,554,862,45.45454545,35.97883598,34.17322835,35.73085847
+2024,3,4,7,219,373,592,212,386,598,372,436,808,42.85714286,36.99324324,35.45150502,46.03960396
+2025,2,2,4,264,361,625,257,372,629,412,445,857,50.0,42.24,40.85850556,48.07467911

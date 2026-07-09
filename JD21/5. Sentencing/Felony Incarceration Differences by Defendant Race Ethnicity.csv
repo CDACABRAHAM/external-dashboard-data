@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Native American Incarceration,Native American No Incarceration,Native American Total,Hispanic Incarceration,Hispanic No Incarceration,Hispanic Total,White Incarceration,White No Incarceration,White Total,Percent of Native American defendants incarcerated,Percent of Hispanic defendants incarcerated,Percent of White defendants incarcerated
-21,2020,1,2,3,85,35,120,301,161,462,33.33333333,70.83333333,65.15151515
-21,2021,3,0,3,87,54,141,400,186,586,100.0,61.70212766,68.25938567
-21,2022,5,0,5,91,35,126,372,268,640,100.0,72.22222222,58.125
-21,2023,7,0,7,86,51,137,378,187,565,100.0,62.77372263,66.90265487
-21,2024,5,2,7,72,40,112,307,171,478,71.42857143,64.28571429,64.22594142
-21,2025,0,3,3,65,28,93,296,180,476,0.0,69.89247312,62.18487395
+﻿Disposition Year,Native American Incarceration,Native American No Incarceration,Native American Total,Hispanic Incarceration,Hispanic No Incarceration,Hispanic Total,White Incarceration,White No Incarceration,White Total,Percent of Native American defendants incarcerated,Percent of Hispanic defendants incarcerated,Percent of White defendants incarcerated
+2020,1,2,3,85,35,120,301,161,462,33.33333333,70.83333333,65.15151515
+2021,3,0,3,87,54,141,400,186,586,100.0,61.70212766,68.25938567
+2022,5,0,5,91,35,126,372,268,640,100.0,72.22222222,58.125
+2023,7,0,7,86,51,137,378,187,565,100.0,62.77372263,66.90265487
+2024,5,2,7,72,40,112,307,171,478,71.42857143,64.28571429,64.22594142
+2025,0,3,3,65,28,93,296,180,476,0.0,69.89247312,62.18487395

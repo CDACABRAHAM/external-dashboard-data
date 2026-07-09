@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Native American Plea to Lesser Charge,Native American No Plea to Lesser Charge,Native American Total Guilty Pleas,Hispanic Plea to Lesser Charge,Hispanic No Plea to Lesser Charge,Hispanic Total Guilty Pleas,Black Plea to Lesser Charge,Black No Plea to Lesser Charge,Black Total Guilty Pleas,White Plea to Lesser Charge,White No Plea to Lesser Charge,White Total Guilty Pleas,Percent of Native American defendants pleading to a lesser charge,Percent of Hispanic defendants pleading to a lesser charge,Percent of Black defendants pleading to a lesser charge,Percent of White defendants pleading to a lesser charge
-05,2020,0,0,0,42,45,87,5,8,13,116,144,260,,48.27586207,38.46153846,44.61538462
-05,2021,0,1,1,62,73,135,11,16,27,157,160,317,0.0,45.92592593,40.74074074,49.52681388
-05,2022,0,0,0,73,92,165,9,13,22,144,143,287,,44.24242424,40.90909091,50.17421603
-05,2023,0,0,0,65,75,140,12,9,21,130,99,229,,46.42857143,57.14285714,56.76855895
-05,2024,0,0,0,60,59,119,10,11,21,92,97,189,,50.42016807,47.61904762,48.67724868
-05,2025,0,1,1,74,55,129,2,7,9,94,117,211,0.0,57.36434109,22.22222222,44.54976303
+﻿Disposition Year,Native American Plea to Lesser Charge,Native American No Plea to Lesser Charge,Native American Total Guilty Pleas,Hispanic Plea to Lesser Charge,Hispanic No Plea to Lesser Charge,Hispanic Total Guilty Pleas,Black Plea to Lesser Charge,Black No Plea to Lesser Charge,Black Total Guilty Pleas,White Plea to Lesser Charge,White No Plea to Lesser Charge,White Total Guilty Pleas,Percent of Native American defendants pleading to a lesser charge,Percent of Hispanic defendants pleading to a lesser charge,Percent of Black defendants pleading to a lesser charge,Percent of White defendants pleading to a lesser charge
+2020,0,0,0,42,45,87,5,8,13,116,144,260,,48.27586207,38.46153846,44.61538462
+2021,0,1,1,62,73,135,11,16,27,157,160,317,0.0,45.92592593,40.74074074,49.52681388
+2022,0,0,0,73,92,165,9,13,22,144,143,287,,44.24242424,40.90909091,50.17421603
+2023,0,0,0,65,75,140,12,9,21,130,99,229,,46.42857143,57.14285714,56.76855895
+2024,0,0,0,60,59,119,10,11,21,92,97,189,,50.42016807,47.61904762,48.67724868
+2025,0,1,1,74,55,129,2,7,9,94,117,211,0.0,57.36434109,22.22222222,44.54976303

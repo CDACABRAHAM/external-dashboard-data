@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Highest Income Neighborhood Cases Dismissed,Highest Income Neighborhood Cases Not Dismissed,Highest Income Neighborhood Total Cases Disposed,Lowest Income Neighborhood Cases Dismissed,Lowest Income Neighborhood Cases Not Dismissed,Lowest Income Neighborhood Total Cases Disposed,Percent of cases in highest income zip codes dismissed,Percent of cases in lowest income zip codes dismissed
-22,2020,8,24,32,7,23,30,25.0,23.33333333
-22,2021,11,33,44,10,25,35,25.0,28.57142857
-22,2022,5,22,27,7,23,30,18.51851852,23.33333333
-22,2023,18,25,43,14,39,53,41.86046512,26.41509434
-22,2024,15,35,50,24,48,72,30.0,33.33333333
-22,2025,10,33,43,5,33,38,23.25581395,13.15789474
+﻿Disposition Year,Highest Income Neighborhood Cases Dismissed,Highest Income Neighborhood Cases Not Dismissed,Highest Income Neighborhood Total Cases Disposed,Lowest Income Neighborhood Cases Dismissed,Lowest Income Neighborhood Cases Not Dismissed,Lowest Income Neighborhood Total Cases Disposed,Percent of cases in highest income zip codes dismissed,Percent of cases in lowest income zip codes dismissed
+2020,8,24,32,7,23,30,25.0,23.33333333
+2021,11,33,44,10,25,35,25.0,28.57142857
+2022,5,22,27,7,23,30,18.51851852,23.33333333
+2023,18,25,43,14,39,53,41.86046512,26.41509434
+2024,15,35,50,24,48,72,30.0,33.33333333
+2025,10,33,43,5,33,38,23.25581395,13.15789474

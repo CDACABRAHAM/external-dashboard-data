@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Private Attorney Incarceration,Private Attorney No Incarceration,Private Attorney Total Cases,Public Defender Incarceration,Public Defender No Incarceration,Public Defender Total Cases,Percent of cases with a private attorney incarcerated,Percent of cases with a public defender incarcerated
-12,2020,28,29,57,51,52,103,49.12280702,49.51456311
-12,2021,19,11,30,35,21,56,63.33333333,62.5
-12,2022,18,9,27,54,21,75,66.66666667,72.0
-12,2023,38,11,49,39,16,55,77.55102041,70.90909091
-12,2024,37,8,45,1,2,3,82.22222222,33.33333333
-12,2025,37,17,54,13,5,18,68.51851852,72.22222222
+﻿Disposition Year,Private Attorney Incarceration,Private Attorney No Incarceration,Private Attorney Total Cases,Public Defender Incarceration,Public Defender No Incarceration,Public Defender Total Cases,Percent of cases with a private attorney incarcerated,Percent of cases with a public defender incarcerated
+2020,28,29,57,51,52,103,49.12280702,49.51456311
+2021,19,11,30,35,21,56,63.33333333,62.5
+2022,18,9,27,54,21,75,66.66666667,72.0
+2023,38,11,49,39,16,55,77.55102041,70.90909091
+2024,37,8,45,1,2,3,82.22222222,33.33333333
+2025,37,17,54,13,5,18,68.51851852,72.22222222

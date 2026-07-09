@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Non-White Victim Cases Dismissed,Non-White Victim Cases Not Dismissed,Non-White Victim Total Cases,White Victim Cases Dismissed,White Victim Cases Not Dismissed,White Victim Cases Total,Percent of cases dismissed involving non-white victims,Percent of cases dismissed involving white victims
-22,2020,27,107,134,45,138,183,20.14925373,24.59016393
-22,2021,41,151,192,46,172,218,21.35416667,21.10091743
-22,2022,31,139,170,62,166,228,18.23529412,27.19298246
-22,2023,69,185,254,113,237,350,27.16535433,32.28571429
-22,2024,75,201,276,160,364,524,27.17391304,30.53435115
-22,2025,61,183,244,76,284,360,25.0,21.11111111
+﻿Disposition Year,Non-White Victim Cases Dismissed,Non-White Victim Cases Not Dismissed,Non-White Victim Total Cases,White Victim Cases Dismissed,White Victim Cases Not Dismissed,White Victim Cases Total,Percent of cases dismissed involving non-white victims,Percent of cases dismissed involving white victims
+2020,27,107,134,45,138,183,20.14925373,24.59016393
+2021,41,151,192,46,172,218,21.35416667,21.10091743
+2022,31,139,170,62,166,228,18.23529412,27.19298246
+2023,69,185,254,113,237,350,27.16535433,32.28571429
+2024,75,201,276,160,364,524,27.17391304,30.53435115
+2025,61,183,244,76,284,360,25.0,21.11111111

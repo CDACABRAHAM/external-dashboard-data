@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Highest Income Neighborhood Incarceration,Highest Income Neighborhood No Incarceration,Highest Income Neighborhood Total Cases,Lowest Income Neighborhood Incarceration,Lowest Income Neighborhood No Incarceration,Lowest Income Neighborhood Total Cases,Percent of cases from highest income zip code incarcerated,Percent of cases from lowest income zip code incarcerated
-07,2019,34,25,59,85,57,142,57.62711864,59.85915493
-07,2020,41,31,72,78,46,124,56.94444444,62.90322581
-07,2021,30,15,45,98,58,156,66.66666667,62.82051282
-07,2022,31,18,49,90,41,131,63.26530612,68.70229008
-07,2023,30,22,52,62,36,98,57.69230769,63.26530612
-07,2024,23,17,40,55,21,76,57.5,72.36842105
+﻿Disposition Year,Highest Income Neighborhood Incarceration,Highest Income Neighborhood No Incarceration,Highest Income Neighborhood Total Cases,Lowest Income Neighborhood Incarceration,Lowest Income Neighborhood No Incarceration,Lowest Income Neighborhood Total Cases,Percent of cases from highest income zip code incarcerated,Percent of cases from lowest income zip code incarcerated
+2019,34,25,59,85,57,142,57.62711864,59.85915493
+2020,41,31,72,78,46,124,56.94444444,62.90322581
+2021,30,15,45,98,58,156,66.66666667,62.82051282
+2022,31,18,49,90,41,131,63.26530612,68.70229008
+2023,30,22,52,62,36,98,57.69230769,63.26530612
+2024,23,17,40,55,21,76,57.5,72.36842105

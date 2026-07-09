@@ -1,7 +1,7 @@
-﻿District,Referral Year,Black Felony Referrals Filed,Black Felony Referrals Not Filed,Black Total Felony Referrals,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Black defendants declined,Percent of cases involving Hispanic defendants declined,Percent of cases involving White defendants declined
-08,2020,152,9,161,624,58,682,1747,141,1888,5.59006211,8.50439883,7.46822034
-08,2021,109,13,122,487,33,520,1517,103,1620,10.6557377,6.34615385,6.35802469
-08,2022,121,11,132,560,53,613,1398,104,1502,8.33333333,8.64600326,6.9241012
-08,2023,115,6,121,565,29,594,1425,91,1516,4.95867769,4.88215488,6.00263852
-08,2024,135,11,146,564,36,600,1476,101,1577,7.53424658,6.0,6.40456563
-08,2025,148,9,157,565,35,600,1384,68,1452,5.73248408,5.83333333,4.68319559
+﻿Referral Year,Black Felony Referrals Filed,Black Felony Referrals Not Filed,Black Total Felony Referrals,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Black defendants declined,Percent of cases involving Hispanic defendants declined,Percent of cases involving White defendants declined
+2020,152,9,161,624,58,682,1747,141,1888,5.59006211,8.50439883,7.46822034
+2021,109,13,122,487,33,520,1517,103,1620,10.6557377,6.34615385,6.35802469
+2022,121,11,132,560,53,613,1398,104,1502,8.33333333,8.64600326,6.9241012
+2023,115,6,121,565,29,594,1425,91,1516,4.95867769,4.88215488,6.00263852
+2024,135,11,146,564,36,600,1476,101,1577,7.53424658,6.0,6.40456563
+2025,148,9,157,565,35,600,1384,68,1452,5.73248408,5.83333333,4.68319559

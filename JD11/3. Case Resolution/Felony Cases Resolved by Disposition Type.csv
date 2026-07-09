@@ -1,7 +1,7 @@
-﻿District,Disposition Year,Dismissed,Plea Dismissal,Deferred,Acquitted,Found Guilty,Plead Guilty
-11,2020,105,78,100,2,6,523
-11,2021,140,73,113,5,8,491
-11,2022,156,67,120,7,13,478
-11,2023,150,55,90,4,14,360
-11,2024,137,71,86,6,8,368
-11,2025,98,42,110,3,15,319
+﻿Disposition Year,Dismissed,Plea Dismissal,Deferred,Acquitted,Found Guilty,Plead Guilty
+2020,105,78,100,2,6,523
+2021,140,73,113,5,8,491
+2022,156,67,120,7,13,478
+2023,150,55,90,4,14,360
+2024,137,71,86,6,8,368
+2025,98,42,110,3,15,319
