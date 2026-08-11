@@ -1,7 +1,10 @@
-﻿Referral Year,Black Felony Referrals Filed,Black Felony Referrals Not Filed,Black Total Felony Referrals,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Black defendants declined,Percent of cases involving Hispanic defendants declined,Percent of cases involving White defendants declined
-2020,448,46,494,1447,140,1587,2492,250,2742,9.3,8.8,9.1
-2021,470,81,551,1545,232,1777,2228,344,2572,14.7,13.1,13.4
-2022,461,62,523,1409,195,1604,2098,272,2370,11.9,12.2,11.5
-2023,477,53,530,1486,174,1660,2158,231,2389,10.0,10.5,9.7
-2024,455,81,536,1584,260,1844,2009,334,2343,15.1,14.1,14.3
-2025,454,102,556,1363,308,1671,1675,386,2061,18.3,18.4,18.7
+﻿Referral Year,Black Felony Referrals Filed,Black Felony Referrals Not Filed,Black Total Felony Referrals,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,Native American Felony Referrals Filed,Native American Felony Referrals Not Filed,Native American Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Black defendants declined,Percent of cases involving Hispanic defendants declined,Percent of cases involving Native American defendants declined,Percent of cases involving White defendants declined
+2017,544,9,553,1490,53,1543,13,0,13,3007,86,3093,1.6,3.4,0.0,2.8
+2018,538,25,563,1479,75,1554,22,2,24,3092,167,3259,4.4,4.8,8.3,5.1
+2019,536,49,585,1652,100,1752,11,0,11,3110,222,3332,8.4,5.7,0.0,6.7
+2020,449,46,495,1445,140,1585,14,0,14,2494,250,2744,9.3,8.8,0.0,9.1
+2021,469,81,550,1547,233,1780,16,2,18,2226,344,2570,14.7,13.1,11.1,13.4
+2022,461,62,523,1408,195,1603,11,0,11,2099,272,2371,11.9,12.2,0.0,11.5
+2023,477,53,530,1485,175,1660,16,5,21,2159,230,2389,10.0,10.5,23.8,9.6
+2024,455,81,536,1584,261,1845,18,2,20,2009,334,2343,15.1,14.1,10.0,14.3
+2025,454,102,556,1363,309,1672,8,2,10,1675,386,2061,18.3,18.5,20.0,18.7

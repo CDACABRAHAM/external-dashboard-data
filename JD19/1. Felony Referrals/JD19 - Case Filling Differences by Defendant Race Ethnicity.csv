@@ -1,7 +1,10 @@
-﻿Referral Year,Black Felony Referrals Filed,Black Felony Referrals Not Filed,Black Total Felony Referrals,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Black defendants declined,Percent of cases involving Hispanic defendants declined,Percent of cases involving White defendants declined
-2020,135,10,145,774,93,867,1367,251,1618,6.9,10.7,15.5
-2021,84,8,92,918,101,1019,1389,201,1590,8.7,9.9,12.6
-2022,94,7,101,722,95,817,1229,195,1424,6.9,11.6,13.7
-2023,81,12,93,711,84,795,1134,187,1321,12.9,10.6,14.2
-2024,110,9,119,777,93,870,1212,160,1372,7.6,10.7,11.7
-2025,88,12,100,670,78,748,1203,197,1400,12.0,10.4,14.1
+﻿Referral Year,Black Felony Referrals Filed,Black Felony Referrals Not Filed,Black Total Felony Referrals,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,Native American Felony Referrals Filed,Native American Felony Referrals Not Filed,Native American Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Black defendants declined,Percent of cases involving Hispanic defendants declined,Percent of cases involving Native American defendants declined,Percent of cases involving White defendants declined
+2017,105,19,124,1014,154,1168,7,2,9,1710,285,1995,15.3,13.2,22.2,14.3
+2018,90,17,107,1036,138,1174,7,0,7,1763,281,2044,15.9,11.8,0.0,13.7
+2019,129,15,144,1120,142,1262,7,0,7,1809,261,2070,10.4,11.3,0.0,12.6
+2020,135,10,145,774,93,867,7,1,8,1367,251,1618,6.9,10.7,12.5,15.5
+2021,84,8,92,917,101,1018,6,1,7,1389,201,1590,8.7,9.9,14.3,12.6
+2022,94,7,101,722,95,817,8,0,8,1229,195,1424,6.9,11.6,0.0,13.7
+2023,81,12,93,711,84,795,6,0,6,1134,187,1321,12.9,10.6,0.0,14.2
+2024,110,9,119,777,93,870,4,0,4,1212,160,1372,7.6,10.7,0.0,11.7
+2025,88,12,100,671,78,749,3,1,4,1202,197,1399,12.0,10.4,25.0,14.1
