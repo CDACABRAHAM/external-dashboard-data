@@ -1,8 +1,8 @@
-﻿Disposition Year,Dismissed,Plea Dismissal,Deferred,Acquitted,Found Guilty,Plead Guilty,Plead/Found Guilty
-2019,183,102,97,1,23,70,93
-2020,192,45,66,0,19,52,71
-2021,176,82,75,0,10,86,96
-2022,132,84,77,1,4,77,81
-2023,406,166,128,1,11,208,219
-2024,441,216,179,3,20,339,359
-2025,338,250,71,5,17,366,383
+﻿Disposition Year,Dismissed,Plea Dismissal,Deferred,Acquitted,Plead/Found Guilty
+2019,183,102,97,1,93
+2020,192,45,66,0,71
+2021,176,82,75,0,96
+2022,132,84,77,1,81
+2023,406,166,128,1,219
+2024,441,216,179,3,359
+2025,338,250,71,5,383
