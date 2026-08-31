@@ -1,12 +1,12 @@
-﻿DispositionQuarter,New case filed within 180 days - felony defendants,No new case filed within 180 days - felony defendants,Total Felony Defendants,Percent of felony defendants with new case filed within 1 year,New case filed within 180 days - misdemeanor defendants,No new case filed within 180 days - misdemeanor defendants,Total Misdemeanor Defendants,Percent of misdemeanor defendants with new case filed within 1 year
+﻿DispositionQuarter,New case filed within 1 year - felony defendants,No new case filed within 1 year - felony defendants,Total Felony Defendants,Percent of felony defendants with new case filed within 1 year,New case filed within 1 year - misdemeanor defendants,No new case filed within 1 year - misdemeanor defendants,Total Misdemeanor Defendants,Percent of misdemeanor defendants with new case filed within 1 year
 2018 Q3,23,62,85,27.1,110,401,511,21.5
 2019 Q2,10,61,71,14.1,116,336,452,25.7
 2020 Q4,11,35,46,23.9,39,252,291,13.4
-2025 Q3,6,48,54,11.1,62,291,353,17.6
+2025 Q3,6,48,54,11.1,63,291,354,17.8
 2021 Q3,11,50,61,18.0,68,301,369,18.4
 2023 Q1,5,44,49,10.2,57,364,421,13.5
 2017 Q3,18,69,87,20.7,65,295,360,18.1
-2025 Q4,4,36,40,10.0,81,374,455,17.8
+2025 Q4,5,35,40,12.5,89,366,455,19.6
 2021 Q2,15,46,61,24.6,59,266,325,18.2
 2019 Q1,14,68,82,17.1,98,375,473,20.7
 2022 Q2,19,59,78,24.4,66,370,436,15.1
@@ -25,7 +25,7 @@
 2024 Q2,7,44,51,13.7,68,262,330,20.6
 2017 Q1,15,75,90,16.7,65,239,304,21.4
 2022 Q3,14,66,80,17.5,75,387,462,16.2
-2025 Q1,11,42,53,20.8,75,313,388,19.3
+2025 Q1,11,42,53,20.8,75,312,387,19.4
 2023 Q2,10,44,54,18.5,63,311,374,16.8
 2017 Q2,14,66,80,17.5,90,304,394,22.8
 2020 Q2,8,28,36,22.2,21,125,146,14.4

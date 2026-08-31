@@ -1,7 +1,8 @@
-﻿Disposition Year,Black No Pretrial,Black Pretrial,Black Total Cases,Hispanic No Pretrial,Hispanic Pretrial,Hispanic Total Cases,White No Pretrial,White Pretrial,White Total Cases,Percent of Black defendants detained pretrial,Percent of Hispanic defendants detained pretrial,Percent of White defendants detained pretrial
-2020,593,329,922,527,247,774,1402,562,1964,35.7,31.9,28.6
-2021,670,358,1028,563,327,890,1367,674,2041,34.8,36.7,33.0
-2022,653,476,1129,599,387,986,1499,794,2293,42.2,39.2,34.6
-2023,646,497,1143,612,399,1011,1406,809,2215,43.5,39.5,36.5
-2024,617,495,1112,683,444,1127,1345,787,2132,44.5,39.4,36.9
-2025,660,523,1183,723,472,1195,1370,911,2281,44.2,39.5,39.9
+﻿Disposition Year,Black No Pretrial,Black Pretrial,Black Total Cases,Hispanic No Pretrial,Hispanic Pretrial,Hispanic Total Cases,Native American No Pretrial,Native American Pretrial,Native American Total Cases,White No Pretrial,White Pretrial,White Total Cases,Percent of Black defendants detained pretrial,Percent of Hispanic defendants detained pretrial,Percent of Native American defendants detained pretrial,Percent of White defendants detained pretrial
+2019,942,536,1478,691,376,1067,10,9,19,2153,895,3048,36.3,35.2,47.4,29.4
+2020,593,328,921,529,246,775,6,8,14,1400,563,1963,35.6,31.7,57.1,28.7
+2021,670,358,1028,565,327,892,2,5,7,1368,674,2042,34.8,36.7,71.4,33.0
+2022,652,476,1128,600,388,988,13,5,18,1499,793,2292,42.2,39.3,27.8,34.6
+2023,646,496,1142,615,399,1014,10,8,18,1402,810,2212,43.4,39.3,44.4,36.6
+2024,617,496,1113,684,443,1127,9,13,22,1343,788,2131,44.6,39.3,59.1,37.0
+2025,661,522,1183,725,475,1200,6,9,15,1369,911,2280,44.1,39.6,60.0,40.0
