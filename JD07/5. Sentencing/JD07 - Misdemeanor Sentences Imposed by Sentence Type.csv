@@ -1,7 +1,8 @@
-﻿Disposition Year,Fine/Comm. Serv/Fee,Credit for time served,Probation,Probation plus Jail,Jail
-2020,518,106,535,151,119
-2021,711,119,680,180,126
-2022,522,104,562,202,145
-2023,463,105,473,177,91
-2024,418,103,401,172,62
-2025,383,92,410,215,107
+﻿Disposition Year,Fine/Comm. Serv/Fee,Credit for time served,Probation,Probation plus Jail,Jail,Youth Corrections
+2019,672,126,654,221,149,2
+2020,518,106,535,151,119,2
+2021,711,119,680,180,126,8
+2022,522,104,562,202,145,6
+2023,463,105,473,177,91,5
+2024,418,103,401,172,62,2
+2025,383,92,410,215,107,2
